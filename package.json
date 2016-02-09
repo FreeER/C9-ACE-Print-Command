@@ -1,0 +1,15 @@
+{
+  "name": "Ace Editor Print Command",
+  "description": "Provides an option for maximizing the Ace editor so it can be easily printed",
+  "version": "0.0.1",
+  "author": "FreeER",
+  "contributors": [
+    {
+      "name": "harutyun",
+    }
+  ],
+  "plugins": {plugin.js},
+  "categories": [
+    "ace"
+  ]
+}
